@@ -6,6 +6,7 @@ This is a fully functional E-Commerce REST API built with Django REST Framework 
 
 
 🚀 Features
+
 ✔️ User Authentication & Authorization (JWT-based security)
 
 ✔️ Product Management (CRUD operations)
