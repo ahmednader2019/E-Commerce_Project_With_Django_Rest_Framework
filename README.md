@@ -7,8 +7,13 @@ This is a fully functional E-Commerce REST API built with Django REST Framework 
 
 🚀 Features
 ✔️ User Authentication & Authorization (JWT-based security)
+
 ✔️ Product Management (CRUD operations)
+
 ✔️ Order & Cart System (Seamless purchasing experience)
+
 ✔️ Filtering & Searching (Enhanced product discovery)
+
 ✔️ Django Serializers (Efficient data processing)
+
 ✔️ Permissions & Access Control (Secure endpoint access)
